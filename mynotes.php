@@ -60,6 +60,11 @@
     >> echo '<br>';
     >> echo '&copy';
     - https://dev.w3.prg/html5/html-author/charref == site entites
+-------------------------------------------------------------------------
+* Operadores de string
+    >> $frase = 'Esta frase tem 29 caracteres.';
+    >> echo $frase[0]; == irá apresentar o primeiro caractere da variável 
+       $frase(índice[0]) ou seja, apenas a letra 'E' irá ser mostrada
 
 
 
