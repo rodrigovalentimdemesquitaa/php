@@ -1,3 +1,3 @@
 <?php
-// aula 50 comentada.
+// aula 69. final da revisão
 ?>
